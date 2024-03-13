@@ -1,3 +1,4 @@
 # testing-repository-gh
 
-testowy tekst do ćwiczenia commitów
+testowy tekst do ćwiczenia commitów 
+kolejny komentarz
